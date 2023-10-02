@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: austine
+Build-Jdk: 11.0.19
+Implementation-Title: strategy-spring-security-acl-jpa
+Implementation-Version: 1.6.0-SNAPSHOT
+Implementation-Vendor-Id: com.github.lothar.security.acl
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://github.com/lordlothar99/strategy-spring-secu
+ rity-acl/strategy-spring-security-acl-jpa
+Created-By: Maven Integration for Eclipse
+
